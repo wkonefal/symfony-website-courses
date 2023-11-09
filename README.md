@@ -1,2 +1,2 @@
 # symfony-website-courses
-My first symfony project.
+The Symfony project.
